@@ -161,6 +161,6 @@
 
   </div>
 
-  <script src="javascript.js" charset="utf-8"></script>
+  <script src="tiktok/javascript.js" charset="utf-8"></script>
 </body>
 </html>
